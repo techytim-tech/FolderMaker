@@ -2,7 +2,8 @@
 A folder making program for Windows written in cSharp
 
 # Requires
-  .NETFramework Version v4.7.2 /n
+  .NETFramework Version v4.7.2 
+# OS Info
 Windows 10,8,7 (Linux under Wine using Winetricks with .NETFramework Version v4.7.2) Lutris: works PlayOnLinux: untested Default Wine: untested, should work.
 
 # About
